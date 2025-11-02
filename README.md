@@ -5,3 +5,6 @@ Programa: Ingenieria industrial
 
 # Link video entrega 1
 https://youtu.be/ioEAOeY2aYA
+
+# Usuaria Kaggle
+https://www.kaggle.com/santiagoude
